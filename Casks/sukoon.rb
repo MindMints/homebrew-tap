@@ -1,6 +1,6 @@
 cask "sukoon" do
-  version "1.6.4"
-  sha256 "efe8b4397e2cbc2798e8065806503290e2f1e5c2c120547e3061aedb3f04603e"
+  version "1.6.5"
+  sha256 "d9b14aa9dc0b80033a98efd58dd413fdc91b26a02810f1fd2cd43986dad88b1d"
 
   url "https://github.com/MindMints/Sukoon-updates/releases/download/v#{version}/Sukoon-#{version}.zip"
   name "Sukoon"
